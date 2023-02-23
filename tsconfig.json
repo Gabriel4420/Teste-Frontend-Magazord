@@ -24,7 +24,10 @@
     "allowSyntheticDefaultImports": true,
     "declaration": true,
     "skipLibCheck": true,
-    "incremental": true
+    "incremental": true,
+    "checkJs": false,
+    "diagnostics": false
+
   },
   "include": ["src/**/*.ts", "src/**/*.tsx", ".jest/setup.ts"],
   "exclude": ["node_modules", "dist", "src/**/*.test*"]
