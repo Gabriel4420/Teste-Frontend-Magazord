@@ -17,7 +17,6 @@
   
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/template-example">
 
-
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
     <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
   </a>
@@ -36,16 +35,17 @@
 - :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
 - 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
 - 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
+
 ---
 
 ## :rocket: Sobre o Projeto
 
-Este é um projeto de boilerplate, contendo as configurações prontas para o seguinte template como base da aplicação template-example: 
+Este é um projeto de boilerplate, contendo as configurações prontas para o seguinte template como base da aplicação template-example:
 
-🔹  React
-🔹  Chakra UI
-🔹  Webpack
-🔹  testes unitários
+🔹 React
+🔹 Chakra UI
+🔹 Webpack
+🔹 testes unitários
 
 ---
 
@@ -62,17 +62,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ✅ [Swc](https://swc.rs/)<br/>
 ✅ [tailwindcss](https://tailwindcss.com/docs/installation)<br/>
 
-
-
 ### Padronização de código
 
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
-  - :mouse: [Editor Config](https://editorconfig.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- :mouse: [Editor Config](https://editorconfig.org/)
 
 ### IDE
 
-  - [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
@@ -84,9 +82,7 @@ Para copiar o projeto, utilize os comandos:
   ❯ git clone https://github.com/Gabriel4420/template-example.git
 ```
 
-
 **Utilizando o projeto**
-
 
 ```bash
   # Atualizar as dependências
